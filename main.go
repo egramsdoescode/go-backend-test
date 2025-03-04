@@ -6,6 +6,7 @@ import (
 
 	"github.com/egramsdoescode/go-backend-test/config"
 	"github.com/egramsdoescode/go-backend-test/db"
+	"github.com/egramsdoescode/go-backend-test/users"
 )
 
 func main() {
