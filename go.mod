@@ -13,3 +13,5 @@ require (
 	golang.org/x/crypto v0.31.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 )
+
+replace github.com/egramsdoescode/go-backend-test => ./ 
